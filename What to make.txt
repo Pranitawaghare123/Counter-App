@@ -1,0 +1,11 @@
+Features:
+
+Increase/decrease/reset
+Keyboard support
+Dark mode
+
+Skills:
+
+DOM manipulation
+Event listeners
+State thinking
